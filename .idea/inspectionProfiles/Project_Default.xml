@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CodeNarc.BracesForTryCatchFinally" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="catchOnSameLineAsClosingBrace" value="true" />
+      <option name="catchOnSameLineAsOpeningBrace" value="true" />
+      <option name="finallyOnSameLineAsClosingBrace" value="true" />
+      <option name="finallyOnSameLineAsOpeningBrace" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
